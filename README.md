@@ -164,26 +164,20 @@ https://drive.google.com/drive/folders/1mTqNH0q6Wa4l8JjKiRDr2OWWoEWz97mX?usp=dri
 
 ## References
 
-1. **Koren, Bell & Volinsky (2009) — Matrix Factorization Techniques for Recommender Systems**
-The foundational paper behind SVD-based recommendation systems, directly motivating the approach used in this project.
-[IEEE Link](https://ieeexplore.ieee.org/document/5197422)
-
-2. **Surprise Library Documentation**
+1. **Surprise Library Documentation**
 scikit-surprise is the core library used for collaborative filtering and SVD in this project. Full API reference and algorithm details available here.
 [Surprise Docs](https://surprise.readthedocs.io/)
 
-3. **Netflix Prize Dataset**
+2. **Netflix Prize Dataset**
 The original competition dataset released by Netflix in 2006, containing 100M+ ratings from 480K users across 17,770 movies.
 [Kaggle Link](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
-4. **Ricci, Rokach & Shapira — Recommender Systems Handbook (Chapters 1–3)**
-The standard reference textbook for recommendation system design, covering collaborative filtering, matrix factorization, and evaluation methodology.
-[Springer Link](https://link.springer.com/book/10.1007/978-0-387-85820-3)
 
 \---
 
 ## Author
 
-**[Your Name]**
+Krish Kumar (                 )
+Mohd Saif   (mdsaif1309-coder)
 
 Project submitted as part of the Recommendation Systems for Personalized Content Discovery problem statement.
